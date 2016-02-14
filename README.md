@@ -1,2 +1,2 @@
 # Resume
-Alexandre Resende's resume
+Alexandre Resende's resume. Further information presented in the CV files.
